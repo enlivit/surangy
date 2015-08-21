@@ -91,7 +91,7 @@ body{font-family: 'Open Sans', sans-serif;}
 .owl-carousel p{font-size: 18px; margin-top: 30px; margin-bottom: 10px;}
 .owl-theme .owl-controls .owl-page span {background: #5ab0e9 ; opacity: 1;}
 .owl-theme .owl-controls .owl-page.active span {background: #ecf0f1 ; }
-.subscribe {position: relative;  top:100px;display:block;width: 348px;margin: 0 auto; /*transform: translateX(50%);
+.subscribe {position: relative;      top: 15%;display:block;width: 355px;margin: 0 auto; /*transform: translateX(50%);
     -webkit-transform: translateX(50%);
     -moz-transform: translate(50%);
     -ms-transform: translate(50%);*/ }
